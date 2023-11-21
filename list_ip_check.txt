@@ -1,0 +1,6 @@
+244.11.98.1 unavailable 100% packet loss
+140.82.121.4 available
+216.58.206.46 available
+165.11.101.22 unavailable 100% packet loss
+77.88.55.242 available
+93.13.140.21 unavailable 100% packet loss
